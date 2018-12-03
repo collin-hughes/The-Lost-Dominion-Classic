@@ -1,7 +1,7 @@
-The Lost Dominion
+###The Lost Dominion
 
 Getting Started:
-1. Ensure Python 3.5+ is installed. A python 3.6 installer is included just in case. Make sure you add it to path.
+1. Ensure Python 3.5+ is installed.
 
 2. Run the script "Lost Dominion Launcher."
 
