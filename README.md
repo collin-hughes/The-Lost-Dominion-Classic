@@ -1,4 +1,4 @@
-###The Lost Dominion
+**The Lost Dominion**
 
 Getting Started:
 1. Ensure Python 3.5+ is installed.
